@@ -3,7 +3,7 @@
 🚀 I am a Full-Stack Developer based in the Netherlands, passionate about building scalable web & mobile applications and integrating modern AI technologies.
 I specialize in React, Next.js, React Native, Node.js, NestJS, TypeScript and PostgreSQL, with strong experience in cloud infrastructure (AWS, Docker, Kubernetes) and real-time systems. Currently seeking opportunities in the Netherlands and around Europe with visa sponsorship, eager to contribute to innovative teams and bring fresh, production-ready solutions. 
 
-🔎 Open to opportunities in **Netherlands & Germany** (With Visa Sponsorship)  
+🔎 Open to opportunities in ** Netherlands or around Europe ** (With Visa Sponsorship)  
 
 ---
 
