@@ -39,5 +39,5 @@ OpenAI · Gemini · Replicate · Fal.ai · LangChain · Supabase pgvector
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/oguzhandogandev/) 
-- 📧 Email: oguzhandogandev@hotmail.com  
-- 🌍 Portfolio Website: https://oguzhandogandev.com  
+- 📧 [Email](mailto:oguzhandogandev@hotmail.com)  
+- 🌍 [Portfolio Website](https://oguzhandogandev.com) 
