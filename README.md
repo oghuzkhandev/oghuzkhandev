@@ -35,3 +35,9 @@ OpenAI · Gemini · Replicate · Fal.ai · LangChain · Supabase pgvector
   🔹 Next.js + NestJS + PostgreSQL + Redis  
   🔹 Scalable online store with real-time inventory & payments  
   [🔗 View Repo](https://github.com/username/ecommerce-app)
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/oguzhandogandev/) 
+- 📧 Email: oguzhandogandev@hotmail.com  
+- 🌍 Portfolio Website: https://oguzhandogandev.com  
