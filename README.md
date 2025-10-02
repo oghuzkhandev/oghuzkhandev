@@ -13,19 +13,19 @@ I specialize in React, Next.js, React Native, Node.js, NestJS, TypeScript and Po
 TypeScript · JavaScript  
 
 **Frontend & UI**  
-React · Next.js · React Native · Tailwind CSS · ShadcnUI · AceternityUI · GSAP  
+React · Next.js · React Native · Tailwind CSS · ShadcnUI · AceternityUI · Motion  
 
 **Backend & APIs**  
 Node.js · NestJS · RESTful & Realtime APIs · Microservices  
 
 **Cloud & Infrastructure**  
-AWS (EC2, S3, Lambda) · Docker · Kubernetes · Redis · Kafka · BullMQ · OneSignal · CronJobs 
+AWS (EC2, S3, Lambda) · Docker · Kubernetes · Redis · Kafka · BullMQ · CronJobs 
 
 **Databases & Storage**  
 PostgreSQL · Drizzle ORM · Supabase · Firebase · Neon  
 
 **AI & Integrations**  
-OpenAI · Gemini · Replicate · Fal.ai · LangChain · Supabase pgvector  
+OpenAI · Gemini · Replicate · Fal.ai · LangChain 
 
 ---
 
