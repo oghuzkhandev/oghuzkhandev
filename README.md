@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Oguzhan
 
-🚀 I am a Full-Stack Developer based in the Netherlands, passionate about building scalable web & mobile applications and integrating modern AI technologies.
-I specialize in React, Next.js, React Native, Node.js, NestJS, TypeScript and PostgreSQL, with strong experience in cloud infrastructure (AWS, Docker, Kubernetes) and real-time systems. Currently seeking opportunities in the Netherlands and around Europe with visa sponsorship, eager to contribute to innovative teams and bring fresh, production-ready solutions. 
+I am a Full-Stack Developer based in the Istanbul, passionate about building scalable web & mobile applications and integrating modern AI technologies.
+I specialize in React, Next.js, React Native, Node.js, Java, TypeScript and PostgreSQL with strong experience in cloud infrastructure (AWS, Docker, Kubernetes) and real-time systems. Currently seeking opportunities, I am eager to contribute to innovative teams and bring fresh, production-ready solutions. 
 
-🔎 Open to opportunities in ** Netherlands or around Europe ** (With Visa Sponsorship)  
+🔎 Open to opportunities in ** Turkiye or around Europe ** (Remote or With Visa Sponsorship)  
 
 ---
 
@@ -13,31 +13,24 @@ I specialize in React, Next.js, React Native, Node.js, NestJS, TypeScript and Po
 TypeScript · JavaScript  
 
 **Frontend & UI**  
-React · Next.js · React Native · Tailwind CSS · Zustand · Frame Motion  
+React · Next.js · React Native · Tailwind CSS · Zustand · TanStack Query  
 
 **Backend & APIs**  
-Node.js · Express.js · RESTful & Realtime APIs · GraphQL  
+Node.js · Java · RESTful & Realtime APIs · GraphQL · WebSocket  
 
 **Cloud & Infrastructure**  
-AWS (EC2, S3, RDB) · Docker · Kubernetes · Redis · Kafka · BullMQ · CronJobs 
+AWS (EC2, S3, RDB ++) · Docker · Kubernetes · RabbitMQ · BullMQ · CronJobs 
 
 **Databases & Storage**  
-PostgreSQL · Drizzle ORM · Supabase · Firebase · Neon  
+PostgreSQL · Microsoft SQL Server · MongoDB · Drizzle & Prisma ORM · Redis · Firebase   
 
 **AI & Integrations**  
 OpenAI · Gemini · Replicate · Fal.ai · LangChain 
 
 ---
 
-## 📌 Featured Projects
-
-- **E-Commerce Platform**  
-  🔹 Next.js + NestJS + PostgreSQL + Redis  
-  🔹 Scalable online store with real-time inventory & payments  
-  [🔗 View Repo](https://github.com/username/ecommerce-app)
-
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/oguzhandogandev/) 
 - 📧 [Email](mailto:oguzhandogandev@hotmail.com)  
-- 🌍 [Portfolio Website](https://oguzhandogandev.com) 
+- 🌍 [Portfolio Website](https://oguzhandogan.com) 
