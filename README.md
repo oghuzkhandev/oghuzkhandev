@@ -1,8 +1,8 @@
 # Hi, I'm Oğuzhan 👋
 
-## Backend Engineer | Node.js, TypeScript, Java & AI Integrations
+## Backend Engineer | Node.js, C# & LLM Integrations
 
-I design and develop production backend systems, REST APIs, database workflows, payment infrastructure, third-party integrations and internal business tools.
+I design and develop production backend systems, REST APIs, database workflows, reliable infrastructure, third-party integrations and queue architectures.
 
 My focus is on building reliable, maintainable and performant systems that support real business workflows. I work across backend architecture, database optimization, automated testing, deployment, monitoring and production reliability.
 
